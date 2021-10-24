@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: daebdd45763d10748b491cc0e93de6ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2653707239648108678
+    second: futureman_0
+  - first:
+      213: -609635800391534730
+    second: futureman_1
+  - first:
+      213: 7574066427223347053
+    second: futureman_2
+  - first:
+      213: -7736041322213376456
+    second: futureman_3
+  - first:
+      213: -8904575251155786849
+    second: futureman_4
+  - first:
+      213: 3579453847699737503
+    second: futureman_5
+  - first:
+      213: 3630512224984065894
+    second: futureman_6
+  - first:
+      213: 877488463903447705
+    second: futureman_7
+  - first:
+      213: 437276443046033315
+    second: futureman_8
+  - first:
+      213: 7527154218794380878
+    second: futureman_9
+  - first:
+      213: 3045031190479323482
+    second: futureman_10
+  - first:
+      213: -3561670985247010524
+    second: futureman_11
+  - first:
+      213: -3130576156996155220
+    second: futureman_12
+  - first:
+      213: -6775166591689890874
+    second: futureman_13
+  - first:
+      213: -7244480414171232026
+    second: futureman_14
+  - first:
+      213: 2697507779086400469
+    second: futureman_15
+  - first:
+      213: -577314560293291507
+    second: futureman_16
+  - first:
+      213: -6017818738237909217
+    second: futureman_17
+  - first:
+      213: 7529478502698235044
+    second: futureman_18
+  - first:
+      213: -7383178414444116221
+    second: futureman_19
+  - first:
+      213: -7749745761253250329
+    second: futureman_20
+  - first:
+      213: 9000847520776348744
+    second: futureman_21
+  - first:
+      213: 5604251754962381670
+    second: futureman_22
+  - first:
+      213: 7316495541251591852
+    second: futureman_23
+  - first:
+      213: 1757073129110517019
+    second: futureman_24
+  - first:
+      213: 589789431622773241
+    second: futureman_25
+  - first:
+      213: 2587023122085393006
+    second: futureman_26
+  - first:
+      213: 2912328772016895755
+    second: futureman_27
+  - first:
+      213: -1965631968304221687
+    second: futureman_28
+  - first:
+      213: -8389134457723074570
+    second: futureman_29
+  - first:
+      213: 5194184470208740033
+    second: futureman_30
+  - first:
+      213: 4391097112550040614
+    second: futureman_31
+  - first:
+      213: 5040238382152138846
+    second: futureman_32
+  - first:
+      213: -2291380515831689551
+    second: futureman_33
+  - first:
+      213: 1488215633606458345
+    second: futureman_34
+  - first:
+      213: 3875921768564668359
+    second: futureman_35
+  - first:
+      213: -4395099725878377356
+    second: futureman_36
+  - first:
+      213: 961759249685644488
+    second: futureman_37
+  - first:
+      213: -657085957288437219
+    second: futureman_38
+  - first:
+      213: -4062894986152604071
+    second: futureman_39
+  - first:
+      213: 8415139267109435981
+    second: futureman_40
+  - first:
+      213: -4489432878702064424
+    second: futureman_41
+  - first:
+      213: -4851593294642359761
+    second: futureman_42
+  - first:
+      213: -343827904063287520
+    second: futureman_43
+  - first:
+      213: -5203452978559259873
+    second: futureman_44
+  - first:
+      213: -3665575333099597413
+    second: futureman_45
+  - first:
+      213: -3371443186956163237
+    second: futureman_46
+  - first:
+      213: -2628146590945610961
+    second: futureman_47
+  - first:
+      213: 1526435982739482243
+    second: futureman_48
+  - first:
+      213: -2920207220109609281
+    second: futureman_49
+  - first:
+      213: 50836797417141376
+    second: futureman_50
+  - first:
+      213: 30353427405008583
+    second: futureman_51
+  - first:
+      213: -2566360138037514977
+    second: futureman_52
+  - first:
+      213: 2299929564130038076
+    second: futureman_53
+  - first:
+      213: 4764426755541844438
+    second: futureman_54
+  - first:
+      213: -3868008868092121263
+    second: futureman_55
+  - first:
+      213: 5882553086572258209
+    second: futureman_56
+  - first:
+      213: -7423746629107581886
+    second: futureman_57
+  - first:
+      213: 5426424796025004385
+    second: futureman_58
+  - first:
+      213: 3033831460615554335
+    second: futureman_59
+  - first:
+      213: -5911517670292961692
+    second: futureman_60
+  - first:
+      213: 2881559091207853673
+    second: futureman_61
+  - first:
+      213: -4283824117657985879
+    second: futureman_62
+  - first:
+      213: -5022721752536128937
+    second: futureman_63
+  - first:
+      213: 1732374101709869593
+    second: futureman_64
+  - first:
+      213: -779631014875173155
+    second: futureman_65
+  - first:
+      213: -5526605580412495057
+    second: futureman_66
+  - first:
+      213: 3223990303051553752
+    second: futureman_67
+  - first:
+      213: -7337076140096919835
+    second: futureman_68
+  - first:
+      213: 5058203260448750206
+    second: futureman_69
+  - first:
+      213: 6204316267969068979
+    second: futureman_70
+  - first:
+      213: -2698328447944857268
+    second: futureman_71
+  - first:
+      213: -1690896892379722662
+    second: futureman_72
+  - first:
+      213: -4479431926162475973
+    second: futureman_73
+  - first:
+      213: 9115376912499320153
+    second: futureman_74
+  - first:
+      213: 8381722786137219987
+    second: futureman_75
+  - first:
+      213: 5354281331258260912
+    second: futureman_76
+  - first:
+      213: -1437950499678436569
+    second: futureman_77
+  - first:
+      213: 8895039856368206243
+    second: futureman_78
+  - first:
+      213: -4479897626634556180
+    second: futureman_79
+  - first:
+      213: -5054304923196814641
+    second: futureman_80
+  - first:
+      213: 5859883584751037158
+    second: futureman_81
+  - first:
+      213: -4136567354064788787
+    second: futureman_82
+  - first:
+      213: 5638323763221702279
+    second: futureman_83
+  - first:
+      213: -1876686809530328066
+    second: futureman_84
+  - first:
+      213: 8987589774096406034
+    second: futureman_85
+  - first:
+      213: -1559030429791215771
+    second: futureman_86
+  - first:
+      213: -3234332935669933619
+    second: futureman_87
+  - first:
+      213: -291378881387696517
+    second: futureman_88
+  - first:
+      213: -2512327725462750487
+    second: futureman_89
+  - first:
+      213: 640113848209232561
+    second: futureman_90
+  - first:
+      213: -6353004790396709425
+    second: futureman_91
+  - first:
+      213: -3632324470931510165
+    second: futureman_92
+  - first:
+      213: -5534589656519310626
+    second: futureman_93
+  - first:
+      213: -7712721473506790925
+    second: futureman_94
+  - first:
+      213: -418104055339978482
+    second: futureman_95
+  - first:
+      213: 1038695677851698698
+    second: futureman_96
+  - first:
+      213: -2654425727239707424
+    second: futureman_97
+  - first:
+      213: 8665719693229151575
+    second: futureman_98
+  - first:
+      213: 3616829668869311844
+    second: futureman_99
+  - first:
+      213: 5297798833639297600
+    second: futureman_100
+  - first:
+      213: 2589827586151021240
+    second: futureman_101
+  - first:
+      213: 4314619552906911732
+    second: futureman_102
+  - first:
+      213: 2853157161813718665
+    second: futureman_103
+  - first:
+      213: -1796010792805243040
+    second: futureman_104
+  - first:
+      213: 3149425397419674969
+    second: futureman_105
+  - first:
+      213: 6745140133455380785
+    second: futureman_106
+  - first:
+      213: -4870050868913410332
+    second: futureman_107
+  - first:
+      213: 2650532504839587619
+    second: futureman_108
+  - first:
+      213: 7276412094931968082
+    second: futureman_109
+  - first:
+      213: 4345852517457625223
+    second: futureman_110
+  - first:
+      213: -9182039014467223352
+    second: futureman_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: futureman_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 555
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ab1dacacd3d420800000000000000
+      internalID: 2653707239648108678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 555
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773d4338732a87f0800000000000000
+      internalID: -609635800391534730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 555
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0cd3594d7c1960800000000000000
+      internalID: 7574066427223347053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 555
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7abd976f04a490800000000000000
+      internalID: -7736041322213376456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 555
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93ef1fccf79c6480800000000000000
+      internalID: -8904575251155786849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 555
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b4c0a4f46cca130800000000000000
+      internalID: 3579453847699737503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 555
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66763e222ab226230800000000000000
+      internalID: 3630512224984065894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 555
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ad779db177d2c00800000000000000
+      internalID: 877488463903447705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 555
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7b760bb94811600800000000000000
+      internalID: 437276443046033315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 555
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e62d4a1e2d57860800000000000000
+      internalID: 7527154218794380878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 504
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5141860cbf124a20800000000000000
+      internalID: 3045031190479323482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42159850c17629ec0800000000000000
+      internalID: -3561670985247010524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8cfeb5295fd84d0800000000000000
+      internalID: -3130576156996155220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 504
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ea3891e5c9f1a0800000000000000
+      internalID: -6775166591689890874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 504
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e88c0b327f667b90800000000000000
+      internalID: -7244480414171232026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 504
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db3c4778097f6520800000000000000
+      internalID: 2697507779086400469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0abe065777fcf7f0800000000000000
+      internalID: -577314560293291507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d3a8cdb96c7ca0800000000000000
+      internalID: -6017818738237909217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4b4492ec41e7860800000000000000
+      internalID: 7529478502698235044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070abd895ea98990800000000000000
+      internalID: -7383178414444116221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea29e04a4f537490800000000000000
+      internalID: -7749745761253250329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 504
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8446451b12f69ec70800000000000000
+      internalID: 9000847520776348744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 454
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b646e474d46cd40800000000000000
+      internalID: 5604251754962381670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 454
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec7092ee9698560800000000000000
+      internalID: 7316495541251591852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 454
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15340993b0626810800000000000000
+      internalID: 1757073129110517019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 454
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a72cfc5a5f2800800000000000000
+      internalID: 589789431622773241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 454
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623f99a2d3f6e320800000000000000
+      internalID: 2587023122085393006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 454
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b077735869baa6820800000000000000
+      internalID: 2912328772016895755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 454
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023312a32ca8b4e0800000000000000
+      internalID: -1965631968304221687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 454
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f74d6288aec39b80800000000000000
+      internalID: -8389134457723074570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 453
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca74a47143751840800000000000000
+      internalID: 5194184470208740033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 453
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e9cf0f8f40fc30800000000000000
+      internalID: 4391097112550040614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 384
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c77faa1682f540800000000000000
+      internalID: 5040238382152138846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 384
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec994af816330e0800000000000000
+      internalID: -2291380515831689551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 384
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebbb4edb3437a410800000000000000
+      internalID: 1488215633606458345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 384
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73080205a0ac530800000000000000
+      internalID: 3875921768564668359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 388
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4744a96e5187103c0800000000000000
+      internalID: -4395099725878377356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 388
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c485f421fad85d00800000000000000
+      internalID: 961759249685644488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_38
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 387
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1adce0adcf81e6f0800000000000000
+      internalID: -657085957288437219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_39
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 387
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e88a64982bd97c0800000000000000
+      internalID: -4062894986152604071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 386
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4abf7ff39498c470800000000000000
+      internalID: 8415139267109435981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_41
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 386
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0106359452b1c0800000000000000
+      internalID: -4489432878702064424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 334
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22dc267a9dabacb0800000000000000
+      internalID: -4851593294642359761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 334
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc07ac75a7a3bf0800000000000000
+      internalID: -343827904063287520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 334
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be687c51f99c7b0800000000000000
+      internalID: -5203452978559259873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 334
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b911a25d7a2412dc0800000000000000
+      internalID: -3665575333099597413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 334
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57211db84a3631d0800000000000000
+      internalID: -3371443186956163237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 334
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23780d9992f68bd0800000000000000
+      internalID: -2628146590945610961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_48
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 334
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386af8b507dfe2510800000000000000
+      internalID: 1526435982739482243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 334
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f5d651075977d0800000000000000
+      internalID: -2920207220109609281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_50
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 334
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08431934ccb94b000800000000000000
+      internalID: 50836797417141376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_51
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 334
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee03a0846db6000800000000000000
+      internalID: 30353427405008583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 282
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2d863d05726cd0800000000000000
+      internalID: -2566360138037514977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 282
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d366c0cdfaef10800000000000000
+      internalID: 2299929564130038076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1407224e4ae1240800000000000000
+      internalID: 4764426755541844438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 282
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fee459d62125ac0800000000000000
+      internalID: -3868008868092121263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 282
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a364897dd603a150800000000000000
+      internalID: 5882553086572258209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 282
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf98506cd89f890800000000000000
+      internalID: -7423746629107581886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 282
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161217ff9988e4b40800000000000000
+      internalID: 5426424796025004385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 282
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150566b3a55a1a20800000000000000
+      internalID: 3033831460615554335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 276
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664ebadff116fda0800000000000000
+      internalID: -5911517670292961692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_61
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 280
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966ddbee9ba5df720800000000000000
+      internalID: 2881559091207853673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_62
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 283
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac9eb269accc84c0800000000000000
+      internalID: -4283824117657985879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_63
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 280
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752e4767d25bb4ab0800000000000000
+      internalID: -5022721752536128937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_64
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 280
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912d0862111aa0810800000000000000
+      internalID: 1732374101709869593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 222
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeec7ef8b13e25f0800000000000000
+      internalID: -779631014875173155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b52dd718d8d43b0800000000000000
+      internalID: -5526605580412495057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 222
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db11b4691aedbc20800000000000000
+      internalID: 3223990303051553752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_68
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 222
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e66783cf187d2a90800000000000000
+      internalID: -7337076140096919835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 222
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a35ccd019523640800000000000000
+      internalID: 5058203260448750206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 227
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf397a16c82a1650800000000000000
+      internalID: 6204316267969068979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_71
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 229
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496aeca29c9d8ad0800000000000000
+      internalID: -2698328447944857268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_72
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 230
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c05e13c3ab888e0800000000000000
+      internalID: -1690896892379722662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 232
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ba8d656cd5d1c0800000000000000
+      internalID: -4479431926162475973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_74
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 230
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955a15fa103508e70800000000000000
+      internalID: 9115376912499320153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_75
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 231
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a189377cd15470800000000000000
+      internalID: 8381722786137219987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 231
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7729a08a3e4a40800000000000000
+      internalID: 5354281331258260912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_77
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 231
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723421e93af5b0ce0800000000000000
+      internalID: -1437950499678436569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 175
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c4c51f97817b70800000000000000
+      internalID: 8895039856368206243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 175
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece45618d434d1c0800000000000000
+      internalID: -4479897626634556180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_80
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca885283708bd9b0800000000000000
+      internalID: -5054304923196814641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_81
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 179
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea6a36c21d725150800000000000000
+      internalID: 5859883584751037158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_82
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 179
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ad7f68e5f796c0800000000000000
+      internalID: -4136567354064788787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_83
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 179
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786297be6995f3e40800000000000000
+      internalID: 5638323763221702279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_84
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 181
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb98433a4ba4f5e0800000000000000
+      internalID: -1876686809530328066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 184
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21613fff7455abc70800000000000000
+      internalID: 8987589774096406034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 179
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f154e85163d5ae0800000000000000
+      internalID: -1559030429791215771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 179
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91c0cc4575d13d0800000000000000
+      internalID: -3234332935669933619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_88
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 179
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ee5df7370d4fbf0800000000000000
+      internalID: -291378881387696517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 125
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea7d6c9e3b622dd0800000000000000
+      internalID: -2512327725462750487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_90
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 123
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d15a472422e800800000000000000
+      internalID: 640113848209232561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 122
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc59c048dc795d7a0800000000000000
+      internalID: -6353004790396709425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2b297324679dc0800000000000000
+      internalID: -3632324470931510165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_93
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 125
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28d99e7003133b0800000000000000
+      internalID: -5534589656519310626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_94
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 125
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b9100fa8e6f490800000000000000
+      internalID: -7712721473506790925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_95
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 126
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017f4ea398923af0800000000000000
+      internalID: -418104055339978482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_96
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 127
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06851c37303a6e00800000000000000
+      internalID: 1038695677851698698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 127
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e428356dd5992bd0800000000000000
+      internalID: -2654425727239707424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_98
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 129
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755d706e522d24870800000000000000
+      internalID: 8665719693229151575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_99
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 128
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d8c0acb6f813230800000000000000
+      internalID: 3616829668869311844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0429c8268ff858940800000000000000
+      internalID: 5297798833639297600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 82
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf906d77ae0f320800000000000000
+      internalID: 2589827586151021240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_102
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 81
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff98ff9f9b90eb30800000000000000
+      internalID: 4314619552906911732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b44e6253789720800000000000000
+      internalID: 2853157161813718665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_104
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067631a13b94317e0800000000000000
+      internalID: -1796010792805243040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d0bcb66b105bb20800000000000000
+      internalID: 3149425397419674969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c6dec63d8b9d50800000000000000
+      internalID: 6745140133455380785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_107
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 25
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee6550998a1a6cb0800000000000000
+      internalID: -4870050868913410332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_108
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 29
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270790254598c420800000000000000
+      internalID: 2650532504839587619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_109
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 30
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a6cd8f320bf460800000000000000
+      internalID: 7276412094931968082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_110
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 23
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7808c4dd6d19f4c30800000000000000
+      internalID: 4345852517457625223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futureman_111
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 27
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c047e43a28d29080800000000000000
+      internalID: -9182039014467223352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
