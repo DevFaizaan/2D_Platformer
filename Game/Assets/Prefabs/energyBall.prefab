@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 8113062457412601837}
   - component: {fileID: 8113062457412601834}
   - component: {fileID: 8113062457412601835}
+  - component: {fileID: 5779251521458186111}
   m_Layer: 0
   m_Name: energyBallAttack
   m_TagString: Untagged
@@ -210,3 +211,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.68, y: 0.37}
   m_EdgeRadius: 0
+--- !u!114 &5779251521458186111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8113062457412601833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d155f77b0a17648478d7376c0f248090, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponDamage: 10
+  explosionEffect: {fileID: 7999073203677012480, guid: 7db88520e6a3c2b4d98cac12b138e213, type: 3}
