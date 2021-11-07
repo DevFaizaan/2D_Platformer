@@ -6,8 +6,9 @@ public class playerHealth : MonoBehaviour
 {
 
     public float fullHealth;
-    float currentHealth;
+    public float currentHealth;
     public GameObject deathEffect;
+   
 
     public AudioClip playerHurt;
 
@@ -89,4 +90,6 @@ public class playerHealth : MonoBehaviour
         Instantiate(deathEffect, transform.position, transform.rotation);
         Destroy(gameObject);
     }
+
+
 }

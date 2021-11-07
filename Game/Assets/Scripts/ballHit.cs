@@ -37,6 +37,12 @@ public class ballHit : MonoBehaviour
                 hurtEnemy.addDamage(weaponDamage);
             }
         }
+        if(other.gameObject.layer == LayerMask.NameToLayer("Ground"))
+        {
+            myPC.removeForce();
+            Instantiate(explosionEffect, transform.position, transform.rotation);
+            Destroy(gameObject);
+        }
 
     }
 
@@ -53,6 +59,10 @@ public class ballHit : MonoBehaviour
                 enemyHealth hurtEnemy = other.gameObject.GetComponent<enemyHealth>();
                 hurtEnemy.addDamage(weaponDamage);
             }
+        }
+        if (other.gameObject.layer == LayerMask.NameToLayer("Ground"))
+        {
+            Destroy(gameObject);
         }
     }
 
