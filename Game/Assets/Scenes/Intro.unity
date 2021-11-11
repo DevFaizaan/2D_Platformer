@@ -241,7 +241,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.00024414062, y: -412}
+  m_AnchoredPosition: {x: 22, y: -68}
   m_SizeDelta: {x: 607.5, y: -170}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &389568044
@@ -467,7 +467,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0023804, y: -412}
+  m_AnchoredPosition: {x: 21.997864, y: -68}
   m_SizeDelta: {x: 1311.5, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1447575846
@@ -481,6 +481,7 @@ GameObject:
   - component: {fileID: 1447575849}
   - component: {fileID: 1447575848}
   - component: {fileID: 1447575847}
+  - component: {fileID: 1447575850}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -501,14 +502,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.1764706}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 996cbc6fd7a04534ab923d40ef80a0c7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 37a5d0d950bac9f4d9a178e4e8dacff0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -545,6 +546,25 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &1447575850
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1447575846}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1528276944
 GameObject:
   m_ObjectHideFlags: 0
@@ -590,12 +610,12 @@ PlayableDirector:
     value: {fileID: 0}
   - key: {fileID: 4276945154303821954, guid: 2123fea87df8dd54bba13b8802284b1f, type: 2}
     value: {fileID: 1749807499}
-  - key: {fileID: 645575938700073799, guid: 2123fea87df8dd54bba13b8802284b1f, type: 2}
-    value: {fileID: 1447575846}
   - key: {fileID: -5057545822379975379, guid: 2123fea87df8dd54bba13b8802284b1f, type: 2}
     value: {fileID: 1717902742}
   - key: {fileID: 7724550097754142171, guid: 2123fea87df8dd54bba13b8802284b1f, type: 2}
     value: {fileID: 1711186195}
+  - key: {fileID: 7291962880925617164, guid: 2123fea87df8dd54bba13b8802284b1f, type: 2}
+    value: {fileID: 1447575850}
   m_ExposedReferences:
     m_References: []
 --- !u!114 &1528276946
@@ -758,14 +778,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.18431373}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.6784314}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d92217b5a57be4f449244e8d92513dcf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0ab0566e056fa3343a2644fdf9d62110, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -898,7 +918,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0037231, y: -412}
+  m_AnchoredPosition: {x: 21.996521, y: -68}
   m_SizeDelta: {x: 1311.5, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2016181354
@@ -936,7 +956,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -412}
+  m_AnchoredPosition: {x: 22.000244, y: -68}
   m_SizeDelta: {x: 1311.5005, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2016181356

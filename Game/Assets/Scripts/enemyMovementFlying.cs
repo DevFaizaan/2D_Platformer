@@ -13,7 +13,6 @@ public class enemyMovementFlying : MonoBehaviour
     public GameObject enemyGraphic;
     bool canFlip = true;
     bool facingRight = false;
-    bool aboveEntity = true;
     float flipTime = 5f;
     float nextFlipChance = 0f;
 
@@ -21,7 +20,10 @@ public class enemyMovementFlying : MonoBehaviour
     public float chargeTime;
     float startChargeTime;
     bool isCharging;
+    public bool chase = false;
     Rigidbody2D enemyRB;
+
+    private GameObject Player;
 
 
     // Start is called before the first frame update
@@ -39,8 +41,20 @@ public class enemyMovementFlying : MonoBehaviour
             if (Random.Range(0, 10) >= 5) flipFacing();
             nextFlipChance = Time.time + flipTime;
         }
+        if(Player == null)
+        {
+            return;
+        }
+        if (chase == true)
+        {
+            Chase();
+        }
     }
 
+    private void Chase()
+    {
+        transform.position = Vector2.MoveTowards(transform.position, Player.transform.position, enemySpeed * Time.deltaTime);
+    }
 
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -58,6 +72,7 @@ public class enemyMovementFlying : MonoBehaviour
             isCharging = true;
             startChargeTime = Time.time + chargeTime;
         }
+        
 
     }
 
@@ -67,12 +82,11 @@ public class enemyMovementFlying : MonoBehaviour
         {
             if (startChargeTime < Time.time)
             {
-                if (!facingRight && aboveEntity) enemyRB.AddForce(new Vector2(-1, 1) * enemySpeed);
-                else enemyRB.AddForce(new Vector2(1, -1) * enemySpeed);
+                Chase();
 
                 enemyAnimator.SetBool("isCharging", isCharging);
             }
-
+            chase = true;
         }
     }
 
@@ -85,6 +99,7 @@ public class enemyMovementFlying : MonoBehaviour
             enemyRB.velocity = new Vector2(0f, 0f);
             enemyAnimator.SetBool("isCharging", isCharging);
         }
+        chase = false;
     }
 
 

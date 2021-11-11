@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 95754683021074128}
   - component: {fileID: 95754683021074129}
   - component: {fileID: 95754683021074130}
-  - component: {fileID: 95754683021074131}
+  - component: {fileID: 3247206720025537279}
   m_Layer: 0
   m_Name: plasmaBall
   m_TagString: Untagged
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rocketSpeed: 5
---- !u!114 &95754683021074131
+--- !u!114 &3247206720025537279
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

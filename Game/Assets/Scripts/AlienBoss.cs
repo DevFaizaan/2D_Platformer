@@ -15,6 +15,9 @@ public Vector2 attackMoveDirection;
 //player attack stage
 public float attackPlayerSpeed;
 public Transform player;
+    private Vector2 playerLocation;
+    private bool hasPlayerLocation;
+
 
 //other
 public Transform groundCheckUp;
@@ -46,9 +49,14 @@ private bool isTouchingWall;
         isTouchingWall = Physics2D.OverlapCircle(groundCheckWall.position, groundCheckRadius, groundLayer);
         //idleState();
         attackMovement();
+       // if (Input.GetKeyDown(KeyCode.Space))
+       // {
+       //     attackPlayer();
+       // }
+        FlippingTowardsPlayer();
     }
 
-    void idleState()
+   public void idleState()
     {
         if(isTouchingUp && isGoingUp)
         {
@@ -73,7 +81,7 @@ private bool isTouchingWall;
         enemyRB.velocity = idleMoveSpeed * idleMoveDirection;
     }
 
-    void attackMovement()
+   public void attackMovement()
     {
         if (isTouchingUp && isGoingUp)
         {
@@ -96,6 +104,40 @@ private bool isTouchingWall;
             }
         }
         enemyRB.velocity = attackMoveSpeed * attackMoveDirection;
+    }
+
+   public void attackPlayer()
+    {
+        if (!hasPlayerLocation)
+        {
+            playerLocation = player.position - transform.position;
+            playerLocation.Normalize();
+            hasPlayerLocation = true;
+        }
+        if (hasPlayerLocation)
+        {
+            enemyRB.velocity = playerLocation * attackPlayerSpeed;
+        }
+       if(isTouchingWall || isTouchingDown)
+        {
+            enemyRB.velocity = Vector2.zero;
+        }
+ 
+    
+    }
+
+    void FlippingTowardsPlayer()
+    {
+        float playerLocation = player.position.x - transform.position.x;
+
+        if(playerLocation>0 && facingLeft)
+        {
+            Flip();
+        }
+        else if(playerLocation<0 && !facingLeft)
+        {
+            Flip();
+        }
     }
 
     void ChangeDirection()

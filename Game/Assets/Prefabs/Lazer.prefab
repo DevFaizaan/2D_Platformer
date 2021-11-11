@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6845114029205809273}
   - component: {fileID: 1937295966264089745}
   - component: {fileID: 6591705921639716528}
+  - component: {fileID: 7994286772688204690}
   m_Layer: 0
   m_Name: Lazer
   m_TagString: Untagged
@@ -30,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 6845114029205809279}
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
   m_LocalPosition: {x: -5.236196, y: -3.3973207, z: 0}
-  m_LocalScale: {x: 2, y: 3.2, z: 1}
+  m_LocalScale: {x: 2, y: 4.2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -156,7 +157,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6655f1ef7b5533a43aaa105be108965c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.024
+  m_Volume: 0.009
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -240,3 +241,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &7994286772688204690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6845114029205809279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d46320687473f4e8563d72535cbaa3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 5
+  damageRate: 0.2
+  pushBackForce: 0

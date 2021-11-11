@@ -44,6 +44,8 @@ public class ballHit : MonoBehaviour
             Destroy(gameObject);
         }
 
+
+
     }
 
     void OnTriggerStay2D(Collider2D other)
