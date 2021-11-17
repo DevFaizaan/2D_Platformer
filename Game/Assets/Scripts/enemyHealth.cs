@@ -12,6 +12,11 @@ public class enemyHealth : MonoBehaviour
     public Slider enemySlider;
 
     float currentHealth;
+    public GameObject barrier;
+
+    //enemy sound
+    public AudioClip enemyHurt;
+    AudioSource enemyAS;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +24,8 @@ public class enemyHealth : MonoBehaviour
         currentHealth = enemyMaxHealth;
         enemySlider.maxValue = currentHealth;
         enemySlider.value = currentHealth;
+
+        enemyAS = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -33,7 +40,11 @@ public class enemyHealth : MonoBehaviour
         currentHealth -= damage;
         enemySlider.value = currentHealth;
 
-        if(currentHealth <= 0)
+        enemyAS.clip = enemyHurt;
+        enemyAS.Play();
+        enemyAS.PlayOneShot(enemyHurt);
+
+        if (currentHealth <= 0)
         {
             makeDead();
         }
@@ -41,6 +52,7 @@ public class enemyHealth : MonoBehaviour
 
     void makeDead()
     {
+        Destroy(barrier);
         Destroy(gameObject);
         Instantiate(enemyDeathFX, transform.position, transform.rotation);
     }

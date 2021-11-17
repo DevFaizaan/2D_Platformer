@@ -21,12 +21,16 @@ float startChargeTime;
 bool isCharging;
 Rigidbody2D enemyRB;
 
+    public AudioClip growl;
+    AudioSource monsterAS;
 
-// Start is called before the first frame update
-void Start()
+
+    // Start is called before the first frame update
+    void Start()
 {
 enemyAnimator = GetComponentInChildren<Animator>();
 enemyRB = GetComponent<Rigidbody2D>();
+        monsterAS = GetComponent<AudioSource>();
 }
 
 // Update is called once per frame
@@ -34,7 +38,11 @@ void Update()
 {
 if (Time.time > nextFlipChance)
 {
-    if (Random.Range(0, 10) >= 5) flipFacing();
+            if (Random.Range(0, 10) >= 5)
+                monsterAS.clip = growl;
+            monsterAS.Play();
+            monsterAS.PlayOneShot(growl);
+            flipFacing();
     nextFlipChance = Time.time + flipTime;
 }
 }

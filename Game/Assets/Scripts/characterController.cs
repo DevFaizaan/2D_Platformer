@@ -25,6 +25,8 @@ public class characterController : MonoBehaviour
     float doubleTapTime;
     KeyCode lastKeyCode;
 
+    
+
 
     //for shooting
     public Transform gunTip;
@@ -40,6 +42,7 @@ public class characterController : MonoBehaviour
     {
         myRB = GetComponent<Rigidbody2D>();
         myAnim = GetComponent<Animator>();
+        
 
         facingRight = true;
 
@@ -108,16 +111,20 @@ public class characterController : MonoBehaviour
         if (!isDashing)
         {
             myRB.velocity = new Vector2(move * maxSpeed, myRB.velocity.y);
+
+            
         }
        
 
         if (move > 0 && !facingRight)
         {
             flip();
+            
         }
         else if (move < 0 && facingRight)
         {
             flip();
+            
         }
 
 

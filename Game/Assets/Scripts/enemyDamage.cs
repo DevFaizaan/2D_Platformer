@@ -33,6 +33,7 @@ public class enemyDamage : MonoBehaviour
             nextDamage = Time.time + damageRate;
 
             pushBack(other.transform);
+
         }
     }
 

@@ -12,7 +12,8 @@ public class playerHealth : MonoBehaviour
    
 
     public AudioClip playerHurt;
-
+    Animator playerAnimator;
+    private SpriteRenderer player;
 
     CharacterController controlMovement;
 
@@ -23,6 +24,8 @@ public class playerHealth : MonoBehaviour
     public Image damageScreen;
 
     bool damaged;
+    public float iFramesDuration;
+    public int noOfFlashes;
     Color damagedColour = new Color(0f, 0f, 0f, 0.5f);
     float smoothColour = 5f;
 
@@ -34,7 +37,8 @@ public class playerHealth : MonoBehaviour
         currentHealth = fullHealth;
 
         controlMovement = GetComponent<CharacterController>();
-
+        playerAnimator = GetComponent<Animator>();
+        player = GetComponent<SpriteRenderer>();
 
         //HUD Initialisation
         healthSlider.maxValue = fullHealth;
@@ -71,12 +75,29 @@ public class playerHealth : MonoBehaviour
         playerAS.Play();
         playerAS.PlayOneShot(playerHurt);
         damaged = true;
+        StartCoroutine(invincibility());
 
         if(currentHealth <=0)
         {
+            playerAnimator.SetTrigger("isDead");
             makeDead();
             SceneManager.LoadScene("GameOver");
         }
+    }
+
+    private IEnumerator invincibility()
+    {
+        
+        Physics2D.IgnoreLayerCollision(9, 10, true);
+        for (int i = 0; i < noOfFlashes; i++)
+        {
+            player.color = new Color(1, 0, 0, 0.5f);
+            yield return new WaitForSeconds(iFramesDuration / (noOfFlashes * 2));
+            player.color = Color.white;
+            yield return new WaitForSeconds(iFramesDuration / (noOfFlashes * 2));
+        }
+        Physics2D.IgnoreLayerCollision(9, 10, false);
+        
     }
 
     public void addHealth(float healthAmount) {

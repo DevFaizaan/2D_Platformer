@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponDamage: 10
-  explosionEffect: {fileID: 7999073203677012480, guid: 7db88520e6a3c2b4d98cac12b138e213, type: 3}
+  explosionEffect: {fileID: 288381122984206897, guid: 22bfd66cf38ba7e429367f3b7c65dc74, type: 3}
 --- !u!1 &95754683021074140
 GameObject:
   m_ObjectHideFlags: 0
@@ -305,10 +305,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 95754683021074140}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5b93fb686b97164db8e1a1968bc1852, type: 3}
+  m_Script: {fileID: 11500000, guid: aec838f815846064cbb9a650986bd102, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rocketSpeed: 5
+  rocketSpeed: 4
 --- !u!114 &3247206720025537279
 MonoBehaviour:
   m_ObjectHideFlags: 0

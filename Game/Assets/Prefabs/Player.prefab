@@ -77,7 +77,7 @@ GameObject:
   - component: {fileID: 3390217862039859792}
   - component: {fileID: 3390217862039859756}
   - component: {fileID: 3390217862039859755}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -188,8 +188,11 @@ MonoBehaviour:
     m_Bits: 256
   groundCheck: {fileID: 3390217861989320289}
   jumpHeight: 150
+  dashDistance: 0
+  playerMove: {fileID: 8300000, guid: 46b0460130d7f1a408bab3b91bf6f9b7, type: 3}
   gunTip: {fileID: 3390217860132587329}
-  bullet: {fileID: 8113062457358444320, guid: d1aa0d28bb5b9ad409612056b2cd0ba0, type: 3}
+  bullet: {fileID: 95754683021074140, guid: 3493b59db354ed2438bf219e19b7dc5f, type: 3}
+  upgradedBullet: {fileID: 1876414119585639606, guid: 84bc0e57935255f4ba58db6e537dc729, type: 3}
   fireRate: 0.8
 --- !u!114 &3390217862039859757
 MonoBehaviour:
@@ -204,10 +207,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fullHealth: 100
+  currentHealth: 0
   deathEffect: {fileID: 1891035029495918069, guid: d380c4b516621cb4b80d11868fbc0b00, type: 3}
   playerHurt: {fileID: 8300000, guid: 659bf572633be9d4e89c2925b98642df, type: 3}
   healthSlider: {fileID: 0}
   damageScreen: {fileID: 0}
+  iFramesDuration: 2
+  noOfFlashes: 3
 --- !u!50 &3390217862039859759
 Rigidbody2D:
   serializedVersion: 4
@@ -283,9 +289,9 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.234
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
