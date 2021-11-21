@@ -189,7 +189,6 @@ MonoBehaviour:
   groundCheck: {fileID: 3390217861989320289}
   jumpHeight: 150
   dashDistance: 0
-  playerMove: {fileID: 8300000, guid: 46b0460130d7f1a408bab3b91bf6f9b7, type: 3}
   gunTip: {fileID: 3390217860132587329}
   bullet: {fileID: 95754683021074140, guid: 3493b59db354ed2438bf219e19b7dc5f, type: 3}
   upgradedBullet: {fileID: 1876414119585639606, guid: 84bc0e57935255f4ba58db6e537dc729, type: 3}
@@ -230,7 +229,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 37a6c0a8bb134744198824988b3fc8b8, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0

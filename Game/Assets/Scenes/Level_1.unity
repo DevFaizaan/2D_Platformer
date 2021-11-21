@@ -2058,7 +2058,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8df8f5960adba7b45a53a64d037dc1b5, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.033
+  m_Volume: 0.017
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3808,6 +3808,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3390217862039859755, guid: a7d9afeaae58e3f4c82ccffe4653fd4b, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3390217862039859755, guid: a7d9afeaae58e3f4c82ccffe4653fd4b, type: 3}
+      propertyPath: m_Volume
+      value: 0.015
+      objectReference: {fileID: 0}
+    - target: {fileID: 3390217862039859755, guid: a7d9afeaae58e3f4c82ccffe4653fd4b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3390217862039859757, guid: a7d9afeaae58e3f4c82ccffe4653fd4b, type: 3}
+      propertyPath: playerHurt
+      value: 
+      objectReference: {fileID: 8300000, guid: 16e40dba072889743b2953d87e342c9d, type: 3}
     - target: {fileID: 3390217862039859757, guid: a7d9afeaae58e3f4c82ccffe4653fd4b, type: 3}
       propertyPath: damageScreen
       value: 
